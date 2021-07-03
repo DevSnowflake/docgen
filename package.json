@@ -1,5 +1,5 @@
 {
-	"name": "discord.js-docgen",
+	"name": "@devsnowflake/docgen",
 	"version": "0.9.0",
 	"description": "The docs.json generator for discord.js and its related projects",
 	"main": "src/index.js",
